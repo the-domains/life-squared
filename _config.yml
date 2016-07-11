@@ -1,16 +1,16 @@
-layout_spectrum: 0.08810352254658937
+layout_spectrum: 0.6872443449683487
 typography_spectrum: 0.42989722336642444
 color:
-  brandStrength: 0.8663694760762155
-  lightness: 0.652629749616608
-  saturation: 0.9482452534139156
-  rhythmicContrast: 0.9861834212206304
+  brandStrength: 0.05492025054991245
+  lightness: 0.3314401265233755
+  saturation: 0.8090355966705829
+  rhythmicContrast: 0.7397373944986612
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
 name: Life Squared
 author:
   name: Sarah Gardner
