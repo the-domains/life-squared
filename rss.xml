@@ -4,7 +4,7 @@
         <description><![CDATA[Life Squared]]></description>
         <link>https://thegrid.ai/life-squared/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 01:56:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2016 01:56:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/life-squared/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,20 +12,6 @@
             <link>https://thegrid.ai/life-squared/5a6734f4-5022-4baf-b246-e6868e8cb125/index.html</link>
             <guid isPermaLink="false">5a6734f4-5022-4baf-b246-e6868e8cb125</guid>
             <pubDate>Mon, 11 Jul 2016 01:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7efcd3d0-fdf1-4a60-a2a8-055664964242.jpg">]]></description>
-            <link>https://thegrid.ai/life-squared/bd6bf74c-e306-402c-95de-4b469cce1be6/index.html</link>
-            <guid isPermaLink="false">bd6bf74c-e306-402c-95de-4b469cce1be6</guid>
-            <pubDate>Mon, 11 Jul 2016 01:56:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08088b48-ea76-4ed0-8b4f-e618e95d8095.jpg">]]></description>
-            <link>https://thegrid.ai/life-squared/9023abae-58cd-4b7f-804a-fca089222e93/index.html</link>
-            <guid isPermaLink="false">9023abae-58cd-4b7f-804a-fca089222e93</guid>
-            <pubDate>Mon, 11 Jul 2016 01:56:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,20 +26,6 @@
             <link>https://thegrid.ai/life-squared/50d488a3-c343-4e6a-8a0f-584c3ec004f1/index.html</link>
             <guid isPermaLink="false">50d488a3-c343-4e6a-8a0f-584c3ec004f1</guid>
             <pubDate>Mon, 11 Jul 2016 01:56:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c2ba779-d7b7-41de-8af4-4690394daf9a.jpg">]]></description>
-            <link>https://thegrid.ai/life-squared/77c88a11-e937-4802-9350-6f445c876cf5/index.html</link>
-            <guid isPermaLink="false">77c88a11-e937-4802-9350-6f445c876cf5</guid>
-            <pubDate>Mon, 11 Jul 2016 01:56:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f689ccb-8e96-4e52-8c75-ec705ea051ac.jpg">]]></description>
-            <link>https://thegrid.ai/life-squared/75c5312c-8aff-4ed0-9739-5a63d370278c/index.html</link>
-            <guid isPermaLink="false">75c5312c-8aff-4ed0-9739-5a63d370278c</guid>
-            <pubDate>Mon, 11 Jul 2016 01:56:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
