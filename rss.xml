@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Life Squared]]></title>
         <description><![CDATA[Life Squared]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/life-squared/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 01:56:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jul 2016 01:56:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/life-squared/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdec232a-fa18-43a4-958e-b46173c3e6a0.jpg">]]></description>
-            <link>undefined3daa30df-6820-4f8c-ad19-00a94c6574b0/index.html</link>
+            <link>https://thegrid.ai/life-squared/3daa30df-6820-4f8c-ad19-00a94c6574b0/index.html</link>
             <guid isPermaLink="false">3daa30df-6820-4f8c-ad19-00a94c6574b0</guid>
             <pubDate>Mon, 11 Jul 2016 01:56:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/edef5e9b-46c0-4229-8164-31ec01adad5a.jpg">]]></description>
+            <link>https://thegrid.ai/life-squared/50d488a3-c343-4e6a-8a0f-584c3ec004f1/index.html</link>
+            <guid isPermaLink="false">50d488a3-c343-4e6a-8a0f-584c3ec004f1</guid>
+            <pubDate>Mon, 11 Jul 2016 01:56:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
