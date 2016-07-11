@@ -4,8 +4,15 @@
         <description><![CDATA[Life Squared]]></description>
         <link>https://thegrid.ai/life-squared/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 02:02:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2016 02:02:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/life-squared/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f689ccb-8e96-4e52-8c75-ec705ea051ac.jpg">]]></description>
+            <link>https://thegrid.ai/life-squared/75c5312c-8aff-4ed0-9739-5a63d370278c/index.html</link>
+            <guid isPermaLink="false">75c5312c-8aff-4ed0-9739-5a63d370278c</guid>
+            <pubDate>Mon, 11 Jul 2016 02:02:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc911def-95ca-4684-8e63-93884f59423e.jpg">]]></description>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/life-squared/9155f2f0-09fa-4fa1-8e58-881340b7ca44/index.html</link>
             <guid isPermaLink="false">9155f2f0-09fa-4fa1-8e58-881340b7ca44</guid>
             <pubDate>Mon, 11 Jul 2016 01:56:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f689ccb-8e96-4e52-8c75-ec705ea051ac.jpg">]]></description>
-            <link>https://thegrid.ai/life-squared/75c5312c-8aff-4ed0-9739-5a63d370278c/index.html</link>
-            <guid isPermaLink="false">75c5312c-8aff-4ed0-9739-5a63d370278c</guid>
-            <pubDate>Mon, 11 Jul 2016 01:56:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
